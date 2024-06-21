@@ -16,8 +16,3 @@
 - [x] Change alert box to modal
 - [x] Custom scrollbar
 - [x] Responsivity
-
-## .tools
-- Css Framework: [Semantic UI](https://semantic-ui.com)
-- Toast or Notification: [Noty](https://ned.im/noty)
-
